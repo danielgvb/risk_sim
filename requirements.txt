@@ -5,3 +5,6 @@ statsmodels
 seaborn
 scipy
 openpyxl
+fitter
+quandl
+investpy
